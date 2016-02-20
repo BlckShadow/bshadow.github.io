@@ -1,0 +1,53 @@
+body{ 
+	font-family: Open-Sans;
+	text-align: center;
+	border-top: 5px solid black;
+	margin: 5px;
+
+	height: 300px;
+	border-bottom: 5px solid black;
+	background-color: #F9f9f9;
+ }
+
+ ul{
+ 	text-align: left;
+ 	list-style: inside;
+ 	
+ }
+ h1{
+ 	text-align: center;
+ 	
+ 	 
+
+ }
+ h3{
+ 	text-transform: capitalize;
+ 	text-align: left;
+ }
+
+hr {
+	width: 75%;
+
+ }
+ 
+ p{
+ 	text-align: left;
+ 	
+}
+img {
+	border:1px solid black;
+	height: 200px;
+	float: right;
+	margin-right: 60px;
+	margin-left:  10px;
+}
+.other-paragraphs {
+	font-weight: bold;
+}
+
+a{
+	padding: 0px 5px;
+  word-wrap: normal;
+  display: inline-block;
+
+}
